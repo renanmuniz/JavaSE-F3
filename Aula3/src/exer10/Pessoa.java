@@ -4,7 +4,7 @@ public class Pessoa implements Cantor, Jogador{
 
     @Override
     public void cantar() {
-        
+
     }
 
     @Override
