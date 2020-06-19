@@ -7,6 +7,6 @@ public class Exer12 {
 
         t = new Palmeiras();
         t.torcer();
-        
+
     }
 }
